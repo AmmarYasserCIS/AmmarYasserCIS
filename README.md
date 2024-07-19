@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can check my [LinkedIn](https://www.linkedin.com/in/ammar-yasser-334067313/)
 
-- 📫 How to reach me **ammarcis@gmail.com**
+- 📫 How to reach me **ammaryassercis@gmail.com**
 - ## Skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
